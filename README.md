@@ -1,7 +1,8 @@
 # 202272600-MOHAMMED-ALZAID-assignment1
 
 # Assignment 1 - Portfolio Website
-**Student:** Mohammed Alzaid (202272600)
+**Student:** MOHAMMED ALZAID 
+**Student ID:** 202272600
 
 ## Overview
 A simple, responsive personal portfolio website created for SWE Assignment 1.

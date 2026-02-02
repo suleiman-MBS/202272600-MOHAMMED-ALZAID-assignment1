@@ -20,7 +20,7 @@ A responsive personal portfolio website developed for Assignment 1. This project
 ## How to Run
 1.  Clone this repository to your local machine:
     ```bash
-    git clone [https://github.com/suleiman-MBS/202272600-MOHAMMED-ALZAID-assignment1.git](https://github.com/suleiman-MBS/202272600-MOHAMMED-ALZAID-assignment1.git)
+    git clone (https://github.com/suleiman-MBS/202272600-MOHAMMED-ALZAID-assignment1.git)
     ```
 2.  Navigate to the project folder.
 3.  Open `index.html` in any modern web browser (Chrome, Edge, Firefox).

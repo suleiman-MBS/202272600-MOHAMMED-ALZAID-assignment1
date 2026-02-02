@@ -1,5 +1,5 @@
 # Assignment 1 - Portfolio Website
-**Student:** Mohammed Alzaid (ID: 202272600)
+**Student:** MOHAMMED ALZAID (ID: 202272600)
 
 ## Overview
 A responsive personal portfolio website developed for Assignment 1. This project serves as a digital resume, showcasing my background as a Software Engineering student at KFUPM with a strong focus on Cybersecurity and Serverless Computing.

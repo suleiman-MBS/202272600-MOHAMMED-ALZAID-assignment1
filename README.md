@@ -38,7 +38,7 @@ In this phase, the following enhancements were implemented to meet the grading r
 └── docs/
     ├── ai-usage-report.md  # Required AI log
     └── technical-doc.md    # Technical implementation details
-
+```
 
 ---
 

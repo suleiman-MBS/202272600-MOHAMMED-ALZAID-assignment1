@@ -1,33 +1,70 @@
-# Assignment 1 - Portfolio Website
-**Student:** MOHAMMED ALZAID (ID: 202272600)
-
-## Overview
-A responsive personal portfolio website developed for Assignment 1. This project serves as a digital resume, showcasing my background as a Software Engineering student at KFUPM with a strong focus on Cybersecurity and Serverless Computing.
-
-## Features
-- **Responsive Design:** Fully adaptable layout that works seamlessly on desktop and mobile devices.
-- **Interactive Elements:** Includes a functional contact form with user feedback alerts.
-- **Project Showcase:** A dynamic grid layout highlighting my key technical projects (Fuzzing & Serverless Research).
-- **Professional Profile:** Features my academic achievements, skills in Cybersecurity (Splunk, AFL++), and current roles.
-
-## About Me
-[cite_start]I am a Junior Software Engineering student at King Fahd University of Petroleum & Minerals (KFUPM) with a GPA of 3.5+[cite: 4]. My passion lies in **Cybersecurity**, **Network Security**, and **Secure Software Development**.
-
-* [cite_start]**Current Role:** Oracle Student Ambassador [cite: 31] [cite_start]& Cybersecurity Trainee (KAUST Academy)[cite: 27].
-* [cite_start]**Key Skills:** Java, Python, SQL, Threat Hunting (Splunk), Fuzzing, and Cloud Computing.
-* [cite_start]**Research:** Currently conducting undergraduate research on Serverless Computing optimization[cite: 24].
-
-## How to Run
-1.  Clone this repository to your local machine:
-    ```bash
-    git clone (https://github.com/suleiman-MBS/202272600-MOHAMMED-ALZAID-assignment1.git)
-    ```
-2.  Navigate to the project folder.
-3.  Open `index.html` in any modern web browser (Chrome, Edge, Firefox).
-
-## AI Usage
-AI tools were utilized to assist with generating the responsive CSS grid structure and debugging Git configuration issues.
-* **Detailed Report:** See [docs/ai-usage-report.md](docs/ai-usage-report.md) for a full breakdown of prompts, modifications, and learning outcomes.
+# 🚀 Portfolio Website - Assignment 2 (Interactive Version)
+**Student:** MOHAMMED ALZAID (ID: 202272600)  
+**University:** King Fahd University of Petroleum & Minerals (KFUPM)  
+**Major:** Software Engineering (Junior)
 
 ---
-*© 2026 Mohammed Alzaid*
+
+## 📌 Project Overview
+Building upon Assignment 1, this version introduces **dynamic interactivity**, **advanced data handling**, and **modern UI/UX transitions**. The portfolio showcases my transition from static web design to functional, client-side JavaScript programming, focusing on my interests in **Cybersecurity** and **Serverless Computing**.
+
+### 🔗 Live Demo
+> **[INSERT YOUR GITHUB PAGES URL HERE]**
+
+---
+
+## 🛠️ New Interactive Features (Assignment 2)
+In this phase, the following enhancements were implemented to meet the grading rubric:
+
+* **Dynamic Content:** Integrated a JavaScript-driven greeting system that updates based on the user's local time (e.g., "Good Morning").
+* **Persistent Theme Engine:** Implemented a **Dark/Light Mode** toggle using `localStorage`. The preference persists even after refreshing the page.
+* **Modern Animations:** * Smooth `transition` properties for theme switching.
+    * 3D "lift" and "glow" effect on project cards using CSS `transform` and `box-shadow` on hover.
+* **Smart User Feedback:** Replaced standard alerts with an in-page **Form Validation** system for immediate user feedback.
+
+---
+
+## 📂 Repository Structure
+```text
+202272600-mohammed-alzaid-assignment2/
+├── README.md               # Project overview
+├── index.html              # Main HTML5 structure
+├── css/
+│   └── styles.css          # Modern CSS3 with Variables
+├── js/
+│   └── script.js           # Core interactivity & Logic
+├── assets/
+│   └── images/             # Project media
+└── docs/
+    ├── ai-usage-report.md  # Required AI log
+    └── technical-doc.md    # Technical implementation details
+
+
+---
+
+## 💻 Tech Stack & Skills
+* **Languages:** HTML5, CSS3, Vanilla JavaScript (ES6+).
+* **Tools:** Git/GitHub, VS Code.
+* **Key Concepts:** DOM Manipulation, Web Storage API, Responsive Design.
+
+---
+
+## 🤖 AI Integration & Learning
+This project utilized **AI-assisted development (Gemini 3 Flash)** for:
+* **Architecture:** Refactoring CSS into a variable-based system for the Theme Engine.
+* **Logic:** Implementing the `localStorage` logic for theme persistence.
+* **Documentation:** Structuring technical reports for clarity.
+
+> **Full AI Usage Report:** [Read more in docs/ai-usage-report.md](docs/ai-usage-report.md)
+
+---
+
+## 🚀 How to Run Locally
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/suleiman-MBS/202272600-mohammed-alzaid-assignment2.git](https://github.com/suleiman-MBS/202272600-mohammed-alzaid-assignment2.git)
+2. Open the project folder.
+3. Launch `index.html` in any modern web browser.
+
+---
+*© 2026 Mohammed Alzaid. Built for SWE Portfolio Course at KFUPM.*

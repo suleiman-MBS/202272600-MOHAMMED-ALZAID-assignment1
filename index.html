@@ -14,12 +14,13 @@
             <li><a href="#about">About</a></li>
             <li><a href="#projects">Projects</a></li>
             <li><a href="#contact">Contact</a></li>
+            <li><button id="theme-toggle">🌙 Mode</button></li>
         </ul>
     </nav>
 
     <section id="about">
         <div class="container">
-            <h1>Hi, I'm Mohammed Alzaid</h1>
+            <h1 id="greeting">Hi, I'm Mohammed Alzaid</h1>
             <p class="tagline">Software Engineering Student @ KFUPM | Cybersecurity Enthusiast</p>
             <p class="bio">I am a junior student passionate about Network Security, Threat Hunting, and building secure web applications. Currently an Oracle Student Ambassador.</p>
         </div>
@@ -45,11 +46,12 @@
         <div class="container">
             <h2>Contact Me</h2>
             <form id="contactForm">
-                <input type="text" placeholder="Your Name" required>
+                <input type="text" id="userName" placeholder="Your Name" required>
                 <input type="email" placeholder="Your Email" required>
                 <textarea placeholder="Your Message" required></textarea>
                 <button type="submit">Send Message</button>
             </form>
+            <div id="form-feedback"></div>
         </div>
     </section>
 
